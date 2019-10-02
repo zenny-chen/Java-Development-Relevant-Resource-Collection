@@ -25,6 +25,7 @@
 1. [在Jar包中查找Java类的小工具](https://blog.csdn.net/kongxx/article/details/85753286)
 1. [图示Java异步编程，清晰易懂，收藏了](https://www.toutiao.com/i6678498547207242253/)
 1. [高并发编程系列：深入探讨ConcurrentHashMap](https://www.toutiao.com/a6680034750784078347/)
+1. [为什么说ThreadLocal是线程安全的](https://www.toutiao.com/a6742843066614284807/)
 1. [关于零拷贝的一点认识](https://www.toutiao.com/a6680353701208523272)
 1. [死磕 java集合之HashMap源码分析](https://www.toutiao.com/a6688257890353938947)
 1. [Stream怎么感觉用的人还是少](https://www.toutiao.com/a6700346920361001483)
