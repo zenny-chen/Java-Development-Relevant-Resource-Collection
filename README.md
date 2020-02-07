@@ -32,6 +32,7 @@
 1. [处理集合还是只会for循环？那你该了解了解Stream API了](https://www.toutiao.com/a6699360552717648388/)
 1. [Java 11必掌握的8大特性，完美代码信手拈来](https://www.toutiao.com/a6719656856689574407)
 1. [反射的深入浅出](https://www.toutiao.com/a6723009453613924872)
+1. [不懂得hashcode的重要性，程序的性能会大打折扣](https://www.toutiao.com/a6759004326334562823/)
 
 <br />
 
