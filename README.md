@@ -13,6 +13,7 @@
 ](http://blog.csdn.net/tabactivity/article/details/30493641)
 1. [JAVA annotation入门](http://blog.csdn.net/hbcui1984/article/details/4735487)
 1. [Java注解解析-运行时注解详解(RUNTIME)](https://blog.csdn.net/jsonChumpKlutz/article/details/81747839)
+1. [厉害了！老大利用AOP实现自定义注解，半小时完成我三天工作量](https://www.toutiao.com/a6795903732807631363/)
 1. [IntelliJ IDEA如何生成可执行jar包](https://jingyan.baidu.com/article/c275f6ba0bbb65e33d7567cb.html)
 1. [IntelliJ IDEA读取资源文件](https://blog.csdn.net/yanwushu/article/details/43764303)
 1. [Java中使用Sqlite](https://bitbucket.org/xerial/sqlite-jdbc)
