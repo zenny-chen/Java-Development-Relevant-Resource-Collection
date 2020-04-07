@@ -23,6 +23,7 @@
 1. [commons-collections下载](http://commons.apache.org/proper/commons-collections/)
 1. [commons-logging下载](https://commons.apache.org/proper/commons-logging/)
 1. [ezmorph下载](http://ezmorph.sourceforge.net)
+- [第六章 感受Mac之美-图文安装Gradle以及包解决下载慢的办法](https://www.toutiao.com/a6812509372137079299/)
 1. [在Jar包中查找Java类的小工具](https://blog.csdn.net/kongxx/article/details/85753286)
 1. [图示Java异步编程，清晰易懂，收藏了](https://www.toutiao.com/i6678498547207242253/)
 1. [高并发编程系列：深入探讨ConcurrentHashMap](https://www.toutiao.com/a6680034750784078347/)
