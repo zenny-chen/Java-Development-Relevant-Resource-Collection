@@ -26,15 +26,19 @@
 - [第六章 感受Mac之美-图文安装Gradle以及包解决下载慢的办法](https://www.toutiao.com/a6812509372137079299/)
 - [在Jar包中查找Java类的小工具](https://blog.csdn.net/kongxx/article/details/85753286)
 - [图示Java异步编程，清晰易懂，收藏了](https://www.toutiao.com/i6678498547207242253/)
-- [高并发编程系列：深入探讨ConcurrentHashMap](https://www.toutiao.com/a6680034750784078347/)
+- [IO多路复用学习](https://www.toutiao.com/i6801646973322691085/)
 - [为什么说ThreadLocal是线程安全的](https://www.toutiao.com/a6742843066614284807/)
 - [关于零拷贝的一点认识](https://www.toutiao.com/a6680353701208523272)
 - [死磕 java集合之HashMap源码分析](https://www.toutiao.com/a6688257890353938947)
+- [深入理解HashMap](https://www.toutiao.com/a6802089727966052867/)
+- [高并发编程系列：深入探讨ConcurrentHashMap](https://www.toutiao.com/a6680034750784078347/)
 - [Stream怎么感觉用的人还是少](https://www.toutiao.com/a6700346920361001483)
 - [处理集合还是只会for循环？那你该了解了解Stream API了](https://www.toutiao.com/a6699360552717648388/)
 - [Java 11必掌握的8大特性，完美代码信手拈来](https://www.toutiao.com/a6719656856689574407)
 - [反射的深入浅出](https://www.toutiao.com/a6723009453613924872)
 - [不懂得hashcode的重要性，程序的性能会大打折扣](https://www.toutiao.com/a6759004326334562823/)
+- [JVM：醒醒，你的JVM宕机了！JVM之安全退出](https://www.toutiao.com/a6815757669639389699/)
+- [JVM虚拟机：三分钟带你了解玩转“对象访问定位](https://www.toutiao.com/i6807333400010031628/)
 
 <br />
 
