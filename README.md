@@ -48,6 +48,7 @@
 - [JVM虚拟机：三分钟带你了解玩转“对象访问定位](https://www.toutiao.com/i6807333400010031628/)
 - [Java 实例 - 格式化时间（SimpleDateFormat）](https://www.runoob.com/java/date-time-am-pm.html)
 - [JAVA中Calendar与Date类型互转](https://blog.csdn.net/fz13768884254/article/details/82422752)
+- [JAVA&CORBA详解](https://blog.csdn.net/zacklin/article/details/8207673)（RPC在Java中的实现也叫RMI，即Remote Method Invocation）
 
 <br />
 
@@ -122,4 +123,5 @@ public class Main {
 ```
 
 上述代码比较简单，由于接口的私有成员方法只能作用于该接口自身，因此不能直接在实现它的类中进行直接访问。但我们可以通过在此接口中定义一个类方法，以对象传递的方式进行访问，这么一来正好可以形成针对当前接口的一种闭环设计。当然，**`private`** 也能修饰接口中的类方法。
+
 
