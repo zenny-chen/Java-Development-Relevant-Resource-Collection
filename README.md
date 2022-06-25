@@ -30,6 +30,7 @@
 - [在Jar包中查找Java类的小工具](https://blog.csdn.net/kongxx/article/details/85753286)
 - [图示Java异步编程，清晰易懂，收藏了](https://www.toutiao.com/i6678498547207242253/)
 - [IO多路复用学习](https://www.toutiao.com/i6801646973322691085/)
+- Java中的原子数据类型：`java.util.concurrent.atomic`
 - [为什么说ThreadLocal是线程安全的](https://www.toutiao.com/a6742843066614284807/)
 - [多线程编程那些事](https://www.toutiao.com/i6904660632952439310/)
 - [关于零拷贝的一点认识](https://www.toutiao.com/a6680353701208523272)
